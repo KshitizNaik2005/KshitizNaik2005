@@ -1,16 +1,16 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://KshitizNaik2005.io)
 
 <h1 align="center">Hi 👋, I'm Kshitiz Naik</h1>
-<h3 align="center">A 3rd Year CSE student.</h3>
+<h3 align="center">A Pre Final Year CSE student.</h3>
 <img align="right" alt="Coding" width"400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiznaik2005&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiznaik2005" /> </p>
 
-- 🔭 I’m currently working on **Interactive AI webpage.**
+- 🔭 I am a Computer Science Engineering student with focused interests in **Artificial Intelligence, Machine Learning, Cybersecurity, and Full-Stack Development**. My work involves building **intelligent, secure, and scalable software systems** that address real-world challenges across domains such as healthcare, environmental analytics, and natural language processing.
 
-- 🌱 I’m currently learning **Cyber Security, Backend Development**
+- 🌱 My technical approach combines **software engineering principles, AI-based problem solving, and cybersecurity awareness**, with emphasis on designing maintainable, scalable, and production-ready systems.
 
-- 💬 Ask me about **Frontend Development**
+- 💬 I have hands-on experience developing **end-to-end applications**, including responsive user interfaces, backend services, RESTful APIs, and machine learning pipelines. I also explore **secure system design practices**, data protection techniques, and backend architecture to ensure reliability and performance in modern applications.
 
 - 📫 How to reach me **kshitiznaik7@gmail.com**
 
